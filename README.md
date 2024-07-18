@@ -1,16 +1,54 @@
-# first_app_2
+# Calculator App 
 
-A new Flutter project.
+Calculator App is a simple yet powerful calculator application built using Flutter. This project aims to provide a user-friendly interface and robust functionality for performing basic arithmetic operations.
+
+## Features
+
+- Addition, subtraction, multiplication, division, percentage, clear and delete operations
+- Clear and user-friendly interface
+- Responsive design suitable for both mobile and desktop platforms
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Dart SDK: Included with Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/HydrallHarsh/Calculator-App-Prodigy.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Calculator-App-Prodigy
+    ```
+3. Install the dependencies:
+    ```bash
+    flutter pub get
+    ```
+
+### Running the App
+
+1. Ensure a device is connected or an emulator is running.
+2. Run the app:
+    ```bash
+    flutter run
+    ```
+
+## Project Structure
+
+- `lib/`: Contains the main application code.
+
+## Contributing
+
+Contributions are welcome! Please open an issue first to discuss what you would like to change. 
+
+
+## Contact
+
+For any questions or suggestions, please contact [Harsh](harsh.santwani0303@gmail.com).
+
+Happy coding!
